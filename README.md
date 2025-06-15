@@ -21,7 +21,7 @@ To assess key environmental factors, we leveraged a range of machine learning mo
 While building our project, we hit a few bumps in the road. Our biggest headache was trying to make all our APIs work together to predict key environmental factors. However, after countless cups of coffee, a lot of perseverance, and enough documentation to wallpaper a room, we finally got 4 APIs (MapBox, WalkScore, Google’s Geocoding, and Estated) to work together like a dream.
 
 ## What We’re Proud Of 🥇
-We started this hackathon with no project ideas and a lot of nerves, yet after 36 hours, we built a complete full-stack application. Including 4 APIs, ML models, a great UI, and, most importantly, an idea we truly believe in. We’re incredibly proud of what we achieved this weekend and are excited to keep tackling real-world problems.
+We started this hackathon with no project ideas and a lot of nerves, yet after 36 hours, we built a complete full-stack application. Including 4 APIs, ML models, a great UI, and, most importantly, an idea we truly believe in. We’re incredibly proud of what we achieved this weekend and are excited to keep tackling real-world problems. We were also about create a stunning presentation with snippets to show off to the judges. 
 
 ## What We Learned 💡
 Our team unanimously agrees that participating in this hackathon accelerated our learning far beyond what we could have achieved in weeks. Over the weekend, we enhanced our full-stack development skills, explored new technologies, integrated innovative APIs, and refined our machine learning and data science expertise.

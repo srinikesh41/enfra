@@ -10,20 +10,19 @@ export const metadata: Metadata = {
   description: "A new way of urban planning",
 };
 
-export default function RootLayout({
-  children,
-  modal,
-}: Readonly<{
+interface RootLayoutProps {
   children: React.ReactNode;
-  modal: React.ReactNode;
-}>) {
-  return (
-    <html lang="en">
-      <body className={inter.className}>
-        <Toaster />
-        {modal}
-        {children}
-      </body>
-    </html>
-  );
+  modal?: React.ReactNode;
 }
+
+const RootLayout = ({ children, modal }: RootLayoutProps) => (
+  <html lang="en">
+    <body className={inter.className}>
+      <Toaster />
+      {modal}
+      {children}
+    </body>
+  </html>
+);
+
+export default RootLayout;
